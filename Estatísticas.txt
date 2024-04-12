@@ -1,0 +1,9 @@
+O curso mais frequentado é Java
+O professor que mais lecionou é Alberto
+O curso com mais horas é Algoritmos
+Existem 5 rapariga(s) na escola.
+A escola tem 9 aluno(s)
+Mora(m) 3 aluno(s) na mesma cidade da escola
+A escola tem 7 professore(s)
+A escola tem 8 curso(s)
+A idade média dos alunos é: 20.78
